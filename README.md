@@ -7,8 +7,8 @@ Các bước để cài đặt Desktop Environment và VNC cho một image Ubunt
 ## 2. Báo cáo
 Trình bày ngắn gọn về:
 - Docker, docker-compose
-- Linux vs Unix vs BSD hay \*nix? macOS thuộc loại nào?
-- Alpine vs Ubuntu
+- `Linux` vs `Unix` vs `BSD` hay `*nix`? `macOS` thuộc loại nào?
+- `Alpine` vs `Ubuntu`
 - VNC
 Xem tại [đây](something.md).
 
