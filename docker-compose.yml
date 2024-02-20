@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  nvc:
+    build: .
+    stdin_open: true
+    ports:
+      - "5901-5905:5901-5905"
