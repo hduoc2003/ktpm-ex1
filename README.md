@@ -9,7 +9,7 @@ Trình bày ngắn gọn về:
 - Docker, docker-compose
 - `Linux` vs `Unix` vs `BSD` hay `*nix`? `macOS` thuộc loại nào?
 - `Alpine` vs `Ubuntu`
-- VNC
+- VNC </br>
 Xem tại [đây](something.md).
 
 
