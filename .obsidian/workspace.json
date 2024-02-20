@@ -8,42 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93813c1516054131",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20240220094549.png"
-              }
-            }
-          },
-          {
-            "id": "ad6fed317f4796a8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20240220094555.png"
-              }
-            }
-          },
-          {
-            "id": "3fbc411af52d6595",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20240220095444.png"
-              }
-            }
-          },
-          {
             "id": "2c8792c408e8d19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "install_de_and_vnc.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "install_de_and_vnc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "install_de_and_vnc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "install_de_and_vnc.md"
               }
             }
           }
@@ -189,12 +158,16 @@
   },
   "active": "2c8792c408e8d19c",
   "lastOpenFiles": [
+    "assets/20240220095641.png",
+    "assets/20240220094555.png",
+    "assets/20240220094549.png",
+    "assets/20240220095444.png",
+    "assets/20240220094555.png",
     "install_de_and_vnc.md",
-    "assets/Pasted image 20240220094549.png",
-    "assets/Pasted image 20240220095641.png",
-    "assets/Pasted image 20240220095444.png",
-    "assets/Pasted image 20240220094555.png",
     "README.md",
+    "assets/20240220094549.png",
+    "assets/20240220095444.png",
+    "assets/20240220095641.png",
     "something.md",
     "assets/result.png",
     "assets",

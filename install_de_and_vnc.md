@@ -15,13 +15,13 @@ Giải thích về các nội dung tệp Dockerfile:
 
 ## Bước 2: Setup VNC
 - Từ thư mục gốc chạy lệnh `docker-compose exec vnc bash`, khi đó terminal sẽ trông như sau
-	![[assets/Pasted image 20240220094555.png]]
+	![](./assets/20240220094555.png)
 - Chạy lệnh `vncserver`, tiếp theo đó điền password và tuỳ chọn `n`
-	![[assets/Pasted image 20240220095444.png]]
+	![](assets/20240220095444.png)
 - Chạy lệnh `vncserver -kill :1` để tắt VNC, sau đó `nano ~/.vnc/xstartup` và copy nội dung từ file [xstartup](xstartup) ở thư mục gốc của repo. Chọn `Ctrl + X` để lưu lại.
 - Chạy lệnh `chmod +x ~/.vnc/xstartup` để cấp quyền cho file.
 - Cuối cùng mở RealVNC Viewer trên Desktop và kết nối tới địa chỉ `localhost:5901` và nhập mật khẩu để truy cập.
-	![[assets/Pasted image 20240220095641.png]]
+	![](assets/20240220095641.png)
 ## Kết quả
 
-![[assets/result.png]]
+![](assets/result.png)
